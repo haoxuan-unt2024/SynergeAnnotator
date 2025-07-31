@@ -72,7 +72,7 @@ Focuses on annotation execution, with a task list and detail view.
 
 - **Performance**: Page load time ≤2 seconds; support at least 50 concurrent users.
 - **Security**: Use HTTPS; all data stored encrypted; API keys accessible only to admins; RBAC enforced.
-- **Usability**: Responsive UI (desktop/mobile); multi-language support (default Chinese, extensible to English).
+- **Usability**: Responsive UI (desktop/mobile); multi-language support (default English).
 - **Scalability**: Modular to support additional LLM models/types in the future; cloud storage for large files (e.g., AWS S3).
 - **Technical Stack**:
   - Frontend: React (with Ant Design or similar UI framework).
